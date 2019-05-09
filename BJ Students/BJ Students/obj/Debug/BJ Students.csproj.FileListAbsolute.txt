@@ -1,0 +1,67 @@
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/bin/Debug/BJ Students.exe.config
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/bin/Debug/BJ Students.exe
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/bin/Debug/BJ Students.pdb
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ Students.csprojAssemblyReference.cache
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ_Students.CreateStudent.resources
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ_Students.Details.resources
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ_Students.Properties.Resources.resources
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ Students.csproj.GenerateResource.cache
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ Students.csproj.CoreCompileInputs.cache
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ Students.exe
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ Students.pdb
+C:/Users/etern_000/Google Drive/VS Projects/BJ Students/BJ Students/BJ Students/bin/Debug/BJ Students.exe.config
+C:/Users/etern_000/Google Drive/VS Projects/BJ Students/BJ Students/BJ Students/bin/Debug/BJ Students.exe
+C:/Users/etern_000/Google Drive/VS Projects/BJ Students/BJ Students/BJ Students/bin/Debug/BJ Students.pdb
+C:/Users/etern_000/Google Drive/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ_Students.CreateStudent.resources
+C:/Users/etern_000/Google Drive/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ_Students.Details.resources
+C:/Users/etern_000/Google Drive/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ_Students.Form1.resources
+C:/Users/etern_000/Google Drive/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ_Students.Properties.Resources.resources
+C:/Users/etern_000/Google Drive/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ Students.csproj.GenerateResource.cache
+C:/Users/etern_000/Google Drive/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ Students.csproj.CoreCompileInputs.cache
+C:/Users/etern_000/Google Drive/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ Students.exe
+C:/Users/etern_000/Google Drive/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ Students.pdb
+C:/Users/etern_000/Google Drive/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ Students.csprojAssemblyReference.cache
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/bin/Debug/BJ Students.exe.manifest
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/bin/Debug/BJ Students.application
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ_Students.LessonForm.resources
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ_Students.CreateLesson.resources
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ_Students.Form1.resources
+/Users/teachers/Google ドライブ/VS Projects/BJ Students/BJ Students/BJ Students/obj/Debug/BJ_Students.Schedule.resources
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\bin\Debug\BJ Students.exe.config
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\bin\Debug\BJ Students.exe
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\bin\Debug\BJ Students.pdb
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.CreateLesson.resources
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.CreateStudent.resources
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.Details.resources
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.Form1.resources
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.LessonForm.resources
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.Properties.Resources.resources
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.Schedule.resources
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ Students.csproj.GenerateResource.cache
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ Students.csproj.CoreCompileInputs.cache
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ Students.exe
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ Students.pdb
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ Students.csprojAssemblyReference.cache
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.NewMember.resources
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.NewMakeup.resources
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\bin\Debug\BJ Students.exe.config
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\bin\Debug\BJ Students.exe
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\bin\Debug\BJ Students.pdb
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.CreateLesson.resources
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.CreateStudent.resources
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.Details.resources
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.Form1.resources
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.LessonForm.resources
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.NewMakeup.resources
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.NewMember.resources
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.Properties.Resources.resources
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.Schedule.resources
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ Students.csproj.GenerateResource.cache
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ Students.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ Students.exe
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ Students.pdb
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ Students.csprojAssemblyReference.cache
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.Summary.resources
+C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.NewTrial.resources
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.NewTrial.resources
+C:\Users\Terry\Google ドライブ\VS Projects\BJ Students\BJ Students\BJ Students\obj\Debug\BJ_Students.Summary.resources

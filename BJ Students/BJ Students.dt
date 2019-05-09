@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT6H24M44.1944405S" SolutionTotalViewTime="P1DT12M41.9639828S" SolutionTotalDebugTime="PT2H9M59.5814101S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students</SolutionFolder>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT54M12.4947356S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Details.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-03-02T16:36:16.4379788+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT2M38.0903827S" EditActiveTime="PT28.3120793S">
+      <ModifiedDate>2018-12-14T17:39:03.227226+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\app.manifest</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T14:45:28.863715+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT21.0727699S" EditActiveTime="PT1M32.6419513S">
+      <ModifiedDate>2018-11-03T17:25:06.6655341+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Attend.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-11-03T17:23:18.1471126+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT39M19.4986655S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students Installer\BJ Students Installer.aip</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students Installer\BJ Students Installer.aiproj</ProjectName>
+      <CreatedDate>2018-12-12T13:57:28.1485539+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17M7.5361646S" EditActiveTime="PT31M12.7628101S">
+      <ModifiedDate>2018-12-10T16:54:38.1491348+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>6</EditedCount>
+      <ViewedCount>13</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\CreateLesson.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-10-06T23:48:21.9129829+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M41.5523099S" EditActiveTime="PT0.0389856S">
+      <ModifiedDate>2018-09-30T20:30:46.54036+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>5</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\CreateStudent.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-09-30T20:30:28.8449871+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2H9M59.5814101S" EditActiveTime="PT24M25.7405173S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>16</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-09-29T21:19:21.0079538+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT55M49.1888008S" EditActiveTime="PT41.1473745S">
+      <ModifiedDate>2019-02-08T15:54:33.0070612+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>6</ViewedCount>
+      <Item>c:\users\etern\google drive\vs projects\bj students\bj students\bj students\Details.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-09-30T21:13:48.21444+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4H11.5250799S" EditActiveTime="PT29M59.2432891S">
+      <ModifiedDate>2019-02-08T15:55:19.0897791+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>9</EditedCount>
+      <ViewedCount>24</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-09-29T21:19:07.6256423+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.2442875S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-10-20T22:21:52.0958237+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.6975026S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-10-20T22:21:48.0196603+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT56M7.1880199S" EditActiveTime="PT20M3.4130945S">
+      <ModifiedDate>2019-02-08T13:33:08.7961633+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>4</EditedCount>
+      <ViewedCount>13</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Lesson.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-10-03T22:27:44.68989+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6H28M1.2919312S" EditActiveTime="PT57M39.4806819S">
+      <ModifiedDate>2018-12-12T13:18:57.2721696+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>9</EditedCount>
+      <ViewedCount>18</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\LessonForm.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-10-03T22:28:09.7917716+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.770844S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\LISC.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-10-04T22:04:11.8536346+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M2.2405761S" EditActiveTime="PT18.2640235S">
+      <ModifiedDate>2019-02-08T13:33:08.7651518+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewMakeup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T09:36:46.9355475+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11M41.3820323S" EditActiveTime="PT45M42.6475056S">
+      <ModifiedDate>2018-12-12T09:36:11.1515363+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>5</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewMember.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-11-03T14:22:42.2828836+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M33.4754959S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewMember.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-11-03T14:28:23.9214443+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT39.7171734S" EditActiveTime="PT3M9.6640714S">
+      <ModifiedDate>2019-02-08T13:39:06.1693536+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewTrial.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T13:25:21.1248148+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.5206223S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewTrial.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T13:25:25.7622357+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.3865991S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewTrial.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T13:25:31.3889399+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M35.8294381S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\AppData\Local\Temp\Report20180929-2120.diagsession</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-09-29T21:20:15.6844341+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.1045185S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Properties\Resources.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-09-29T21:30:38.8870847+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10H13M24.5005793S" EditActiveTime="PT3H3M43.0728024S">
+      <ModifiedDate>2019-02-08T15:52:12.7666232+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>9</EditedCount>
+      <ViewedCount>14</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Schedule.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-10-30T10:06:11.8588219+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.3336968S" EditActiveTime="PT9.7758664S">
+      <ModifiedDate>2018-10-30T10:10:00.4676194+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Schedule.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-10-30T10:09:35.5866197+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M54.1349879S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Properties\Settings.settings</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-09-29T21:30:41.8299707+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT50.8184052S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>6</ViewedCount>
+      <Item>c:\users\etern\google drive\vs projects\bj students\bj students\bj students\Student.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-10-03T22:39:18.9355643+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13M39.8630994S" EditActiveTime="PT10M3.7299049S">
+      <ModifiedDate>2019-02-08T15:44:10.8097971+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Summary.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-07T23:17:01.748405+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT54M12.4917355S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Details.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-03-02T16:36:16.4379788+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.3499432S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Details.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-15T19:52:17.1831742+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M5.7737168S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-15T19:51:07.8278475+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT46.4258205S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-15T19:50:24.9816375+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.1472133S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-15T19:49:53.3282898+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.641969S" EditActiveTime="PT41.1473745S">
+      <ModifiedDate>2019-02-08T15:54:33.0070612+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Details.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T15:53:41.8531392+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.274919S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\CreateLesson.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T15:53:35.5772207+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M22.7240217S" EditActiveTime="PT1M41.0169248S">
+      <ModifiedDate>2019-02-08T15:55:19.0897791+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T15:48:34.3670946+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11M49.1768134S" EditActiveTime="PT2M11.8401907S">
+      <ModifiedDate>2019-02-08T15:44:10.8097971+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Summary.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T13:39:47.4300903+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16.2590202S" EditActiveTime="PT22.543876S">
+      <ModifiedDate>2019-02-08T13:33:08.7961633+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Lesson.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T13:32:18.2527733+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M42.7989704S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewMember.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T13:26:32.6068644+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.3865991S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewTrial.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T13:25:31.3889399+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.5206223S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewTrial.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T13:25:25.7622357+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT39.7171734S" EditActiveTime="PT3M9.6640714S">
+      <ModifiedDate>2019-02-08T13:39:06.1693536+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewTrial.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T13:25:21.1248148+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M39.1066835S" EditActiveTime="PT3.8965394S">
+      <ModifiedDate>2019-02-08T13:33:08.7651518+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewMakeup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T13:21:48.9601917+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1H11M35.2018606S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-08T13:16:29.8286643+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16M17.7335951S" EditActiveTime="PT11M0.6090364S">
+      <ModifiedDate>2019-02-08T15:52:12.7666232+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Schedule.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T13:16:18.8544778+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.6504113S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Schedule.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-08T13:16:03.3994599+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.7127658S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Schedule.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-07T23:35:08.1669746+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M10.6213886S" EditActiveTime="PT2M16.6823389S">
+      <ModifiedDate>2019-02-07T23:33:43.2598238+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-07T23:30:40.8622477+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M5.5053886S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2019-02-07T23:22:53.9933655+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M35.7909001S" EditActiveTime="PT3M7.5572473S">
+      <ModifiedDate>2019-02-07T23:29:41.5171854+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Summary.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-07T23:22:52.0037345+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.8953859S" EditActiveTime="PT4M44.3324669S">
+      <ModifiedDate>2019-02-07T23:22:38.1086699+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Summary.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-07T23:17:01.748405+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT40.1192131S" EditActiveTime="PT26.3433944S">
+      <ModifiedDate>2019-02-07T23:19:41.7047798+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Schedule.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-07T23:16:38.7695826+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT55.2771916S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2019-02-07T23:15:43.4913916+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M24.7936981S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-18T11:11:34.9944786+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT11.8081294S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Schedule.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-18T11:11:23.1853495+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT40.2056895S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Schedule.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-14T17:39:21.9489266+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.1658296S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-14T17:39:15.7810705+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.271542S" EditActiveTime="PT5.6687662S">
+      <ModifiedDate>2018-12-14T17:39:03.227226+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\app.manifest</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-14T17:38:55.0932575+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT17.0503163S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\LessonForm.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-14T17:38:45.0050567+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.9487615S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\LessonForm.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T22:26:02.2640801+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6.5176085S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Lesson.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T22:25:55.7464716+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.7753925S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\app.manifest</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T22:25:49.9710791+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3H3M29.1510712S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Schedule.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T15:47:34.5275019+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M23.0434482S" EditActiveTime="PT22.6433131S">
+      <ModifiedDate>2018-12-12T14:47:08.927248+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\app.manifest</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T14:45:28.863715+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT39M19.4986655S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students Installer\BJ Students Installer.aip</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students Installer\BJ Students Installer.aiproj</ProjectName>
+      <CreatedDate>2018-12-12T13:57:28.1485539+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT36.0052895S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Properties\Settings.settings</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T13:41:45.9705922+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.1626443S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Properties\Resources.resx</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T13:41:42.8069482+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.7036559S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\CreateLesson.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T13:01:49.7817344+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.8103669S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Details.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T12:59:15.855779+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M22.8053768S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Lesson.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T12:57:37.1102521+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT23.1338926S" EditActiveTime="PT14.3674841S">
+      <ModifiedDate>2018-12-12T09:37:15.1008091+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewMakeup.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T09:36:46.9355475+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT36M44.4986426S" EditActiveTime="PT6M17.5018626S">
+      <ModifiedDate>2018-12-12T13:37:19.6338305+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T08:52:41.2590704+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M10.9430683S" EditActiveTime="PT39M57.396591S">
+      <ModifiedDate>2018-12-12T09:36:11.1515363+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewMember.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-12T08:49:01.247541+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M57.6916548S" EditActiveTime="PT10M11.722506S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-12-12T08:41:05.7382228+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3H20M14.8302096S" EditActiveTime="PT20.62042S">
+      <ModifiedDate>2018-12-12T13:25:22.5768838+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Schedule.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-11T20:26:55.7391728+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2H18M48.4315441S" EditActiveTime="PT40M38.1432716S">
+      <ModifiedDate>2018-12-12T13:18:57.2721696+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\LessonForm.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-11T20:26:45.9898065+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.9384492S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\LessonForm.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-11T20:26:25.3867233+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12.288776S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Student.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-10T15:39:11.7417343+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1H44M54.618124S" EditActiveTime="PT3M41.495299S">
+      <ModifiedDate>2018-12-10T18:29:25.2096609+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-10T15:37:41.8913454+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.9707454S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Form1.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-10T15:37:39.919597+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.7388253S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\NewMember.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-10T15:37:29.7294789+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3H31M31.7993713S" EditActiveTime="PT45.6159817S">
+      <ModifiedDate>2018-12-10T18:29:25.1637024+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\LessonForm.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-10T15:37:26.444015+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT18M4.5660668S" EditActiveTime="PT32M26.2291201S">
+      <ModifiedDate>2018-12-10T17:42:53.4206984+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\Schedule.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-10T15:32:06.8912441+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12M16.0163148S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-12-10T15:31:33.305981+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M29.9370147S" EditActiveTime="PT0.3099635S">
+      <ModifiedDate>2018-12-10T16:54:38.1491348+09:00</ModifiedDate>
+      <ModifiedBy>etern</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\CreateLesson.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\etern\Google Drive\VS Projects\BJ Students\BJ Students\BJ Students\BJ Students.csproj</ProjectName>
+      <CreatedDate>2018-12-10T15:30:27.56796+09:00</CreatedDate>
+      <ViewedBy>etern</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
